@@ -6,7 +6,7 @@
 
 ## 🚀 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
-![React](https://img.shields.io/badge/React-17-blue)
+![React](https://img.shields.io/badge/React-19-blue)
 ![Three.js](https://img.shields.io/badge/Three.js-3D-lightgrey)
 
 

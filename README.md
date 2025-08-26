@@ -9,8 +9,6 @@
 ![React](https://img.shields.io/badge/React-17-blue)
 ![Three.js](https://img.shields.io/badge/Three.js-3D-lightgrey)
 
-## 📊 GitHub Stats
-![Kiet's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiet-huynhtuan&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 - [Portfolio Website](https://github.com/kiet-huynhtuan/portfolio)  
